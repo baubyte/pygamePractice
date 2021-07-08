@@ -1,2 +1,2 @@
-# pygamePractice
-Jugando con Pygame
+# Jugando con Pygame
+
