@@ -294,7 +294,7 @@ while running:
     for hit in hits:
         player.shield -= 25
         # Animacion de Explosion
-        #createExplosion(hit.rect)
+        createExplosion(hit.rect)
         #Volvemos a crear los meteoros
         createMeteor()
         if player.shield <= 0:
